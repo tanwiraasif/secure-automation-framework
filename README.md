@@ -1,4 +1,4 @@
-# secure-automation-framework
+# Secure Automation Framework
 Security-focused Python automation framework demonstrating defensive programming practices, secure file handling, subprocess allowlisting, and structured audit logging.
 
 ## 🔐 Overview
@@ -78,8 +78,11 @@ nano secure_automation.py
 Paste the script code, then save and exit:
 
 Press CTRL + X
+
 Press Y
+
 Press Enter
+
 Run the script:
 
 python secure_automation.py
