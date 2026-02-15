@@ -63,10 +63,25 @@ No external libraries required.
 
 ---
 
-## ▶️ How to Run
+### ▶️ How to Run (Android / Termux)
 
+# Update package lists
 pkg update
 pkg upgrade
+
+# Install Python
 pkg install python
+
+# Create the script file
 nano secure_automation.py
+
+Paste the script code, then save and exit:
+
+Press CTRL + X
+Press Y
+Press Enter
+Run the script:
+
 python secure_automation.py
+
+The script will execute the security demonstration and exit after completion.
