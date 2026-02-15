@@ -65,10 +65,8 @@ No external libraries required.
 
 ## ▶️ How to Run
 
-```bash
+pkg update
+pkg upgrade
+pkg install python
+nano secure_automation.py
 python secure_automation.py
-
-secure-automation-framework/
-│
-├── secure_automation.py
-└── README.md
